@@ -1,0 +1,66 @@
+*{
+    color: plum;
+    text-align: center;
+  
+    
+}
+
+p{
+    color: red;
+    width: 300px;
+    font-size: 20px;
+  }
+
+  /*
+   Esto es un comentario diciendo una pelotudes dentro de un documento CSS
+  */
+  h1{
+    border: 10px dotted pink;
+    padding: 15x;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    margin: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color:turquoise
+  }
+
+  section{
+    width: 300px;
+    border: 15px solid purple;
+    padding: 50px;
+    margin: 20px;
+    background-image: url("https://www.transparentpng.com/thumb/cute/qmc1Rd-cute-background.png");
+    
+  } 
+
+ #mi_parrafo {
+    color: chartreuse;
+    font-size:23px ;
+    border: 5px solid orange;
+ } 
+
+ .theworldismine {
+    font-weight: bold;
+    color: lightblue;
+    
+ }
+/*
+ section h1 {
+    font-weight: 300px;
+ }
+ */
+
+ .cangrejo{
+   background-color: cyan;
+ }
+ 
+ body {
+  background-image: url("https://www.pngkey.com/png/full/77-770808_clip-library-library-cute-stars-little-star-drawing.png");
+ }
+
+ 
