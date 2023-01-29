@@ -1,0 +1,39 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+    border: 1px solid color=black;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background: rgb(192, 235, 255);
+  }
+ 
+fieldset {
+    margin-bottom: 10px;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/631/332/8/gradient-minimalism-simple-blue-background-wallpaper-preview.jpg);
+  }
+
+  legend {
+    border: solid 1px #b5d5f8; 
+    padding: 5px;
+    font-weight: bold;
+    background: white;
+    border-radius: 15px;
+  }
+
+  h1 {
+    text-decoration: underline;
+  }
+
+  #mifoto {
+    border: solid 6px;
+    margin: 10px;
+  }
+
+  ul {
+    color: white;
+  }
+
+  
